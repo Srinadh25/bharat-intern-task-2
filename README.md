@@ -1,2 +1,2 @@
-# oasis-task-2
+# OIBSIP-TASK-2
 temperature converter
